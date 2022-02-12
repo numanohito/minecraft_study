@@ -2,5 +2,9 @@
   "parent": "item/handheld",
   "textures": {
     "layer0": "numaitems:item/iron_pan"
+  },
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "numaitems:item/iron_pan"
   }
 }
